@@ -1,0 +1,5 @@
+E:\My Content\Account\Dinesh\NearAndBest\OutputDlls\NearAndBest.IFacade.dll
+E:\My Content\Account\Dinesh\NearAndBest\OutputDlls\NearAndBest.IFacade.pdb
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.IFacade\obj\Debug\NearAndBest.IFacade.csprojResolveAssemblyReference.cache
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.IFacade\obj\Debug\NearAndBest.IFacade.dll
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.IFacade\obj\Debug\NearAndBest.IFacade.pdb

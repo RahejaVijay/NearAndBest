@@ -1,0 +1,16 @@
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade.UnitTest\bin\Debug\NearAndBest.Facade.UnitTest.dll.config
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade.UnitTest\bin\Debug\NearAndBest.Facade.UnitTest.dll
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade.UnitTest\bin\Debug\NearAndBest.Facade.UnitTest.pdb
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade.UnitTest\bin\Debug\NearAndBest.DTOs.dll
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade.UnitTest\bin\Debug\NearAndBest.Entities.dll
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade.UnitTest\bin\Debug\NearAndBest.Facade.dll
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade.UnitTest\bin\Debug\NearAndBest.IFacade.dll
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade.UnitTest\bin\Debug\NearAndBest.Database.dll
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade.UnitTest\bin\Debug\NearAndBest.DTOs.pdb
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade.UnitTest\bin\Debug\NearAndBest.Entities.pdb
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade.UnitTest\bin\Debug\NearAndBest.Facade.pdb
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade.UnitTest\bin\Debug\NearAndBest.IFacade.pdb
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade.UnitTest\bin\Debug\NearAndBest.Database.pdb
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade.UnitTest\obj\Debug\NearAndBest.Facade.UnitTest.csprojResolveAssemblyReference.cache
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade.UnitTest\obj\Debug\NearAndBest.Facade.UnitTest.dll
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade.UnitTest\obj\Debug\NearAndBest.Facade.UnitTest.pdb

@@ -1,0 +1,7 @@
+E:\My Content\Account\Dinesh\NearAndBest\OutputDlls\NearAndBest.Facade.dll
+E:\My Content\Account\Dinesh\NearAndBest\OutputDlls\NearAndBest.Facade.pdb
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade\obj\Debug\NearAndBest.Facade.csprojResolveAssemblyReference.cache
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade\obj\Debug\NearAndBest.Facade.Resources.Resources.resources
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade\obj\Debug\NearAndBest.Facade.csproj.GenerateResource.Cache
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade\obj\Debug\NearAndBest.Facade.dll
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.Facade\obj\Debug\NearAndBest.Facade.pdb

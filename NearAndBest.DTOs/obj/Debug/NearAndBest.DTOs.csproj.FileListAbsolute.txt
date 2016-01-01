@@ -1,0 +1,5 @@
+E:\My Content\Account\Dinesh\NearAndBest\OutputDlls\NearAndBest.DTOs.dll
+E:\My Content\Account\Dinesh\NearAndBest\OutputDlls\NearAndBest.DTOs.pdb
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.DTOs\obj\Debug\NearAndBest.DTOs.csprojResolveAssemblyReference.cache
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.DTOs\obj\Debug\NearAndBest.DTOs.dll
+E:\My Content\Account\Dinesh\NearAndBest\NearAndBest.DTOs\obj\Debug\NearAndBest.DTOs.pdb
