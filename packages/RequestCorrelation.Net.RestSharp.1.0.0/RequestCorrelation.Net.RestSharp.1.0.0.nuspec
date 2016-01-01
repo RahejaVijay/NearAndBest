@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>RequestCorrelation.Net.RestSharp</id>
+    <version>1.0.0</version>
+    <title>RequestCorrelation.Net.RestSharp</title>
+    <authors>Brian Skibinski</authors>
+    <owners>Brian Skibinski</owners>
+    <licenseUrl>https://github.com/BrianSkibinski/RequestCorrelation/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/BrianSkibinski/RequestCorrelation</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Library of extension methods for adding the x-request-id header to RestSharp's RestRequest.</description>
+    <summary>Library of extension methods for adding the x-request-id header to RestSharp's RestRequest.</summary>
+    <releaseNotes>Initial</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>x-request-id correlation request-id requestid header RestSharp</tags>
+    <dependencies>
+      <dependency id="RestSharp" version="105.2.3" />
+    </dependencies>
+  </metadata>
+</package>
