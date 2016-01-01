@@ -1,0 +1,55 @@
+﻿@using NearAndBest.Models.Admin;
+@model IEnumerable<RoleModel>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Roles</h2>
+<style type="text/css">
+    .col-border-header {
+        background: #C0D4B6;
+        border: 1px #aaa solid;
+        text-align: center;
+    }
+
+    .col-border-data {
+        border-left: 1px #aaa solid;
+        border-bottom: 1px #aaa solid;
+        border-right: 1px #aaa solid;
+        text-align: center;
+    }
+    .nonPadding {padding-left:0px; padding-right:0px;}
+</style>
+<div class="container">
+    <div class="row">
+        <div class="col-border-header col-sm-1">Role Id</div>
+        <div class="col-border-header col-sm-2">Role Name</div>    
+        <div class="col-border-header col-sm-2">Action</div>
+    </div>
+    @foreach (var role in Model)
+{
+        
+         <div class="row">
+        <div class="col-border-data col-sm-1">@role.Id</div>
+        <div class="col-border-data col-sm-2">@role.RoleName</div>    
+        <div class="col-border-header col-sm-2">Action</div>
+    </div>
+        
+    @*<div class="nonPadding row">
+        <div class="col-sm-1">
+            <div class="col-border-data">@role.Id</div>
+        </div>
+        <div class="col-sm-2">
+            <div class="col-border-data">@role.RoleName</div>
+        </div>
+        <div class="col-sm-2">
+            <div class="col-border-data">
+                <button class="btn btn-link">Edit</button>
+                <button class="btn btn-link">Delete</button>
+            </div>
+
+
+        </div>
+    </div>*@
+}
+</div>
