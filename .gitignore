@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/config/applicationhost.config
+/.vs
+/NearAndBest.Business/obj
+/NearAndBest.WebServices/obj
+/NearAndBest.Entities/obj
+/NearAndBest.Facade/obj
+/NearAndBest.WebService.Test/obj
+/NearAndBest.Web.Tests/obj
+/NearAndBest.Web
+/NearAndBest.Services/obj
+/NearAndBest.Models/obj
+/NearAndBest.IFacade/obj
+/NearAndBest.Facade.UnitTest/obj
+/NearAndBest.Database/obj
+/NearAndBest.DTOs/obj
